@@ -9,4 +9,8 @@ LIBRARIES : os, pytorch-1.5.1(GPU version), tarfile
 
 CIFAR10-Dataset website : http://files.fast.ai/data/cifar10.tgz
 
+CNN - Accuracy - 77%
+Feed-Forward-Neural-Network - 55%
+Logistic-Regression - 40%
+
 Credits : Thanks to the lectures in freecodecamp lectured by Aakash.
